@@ -13,7 +13,7 @@ This program is a great starting point for beginners learning the C++ programmin
 "Hello World"
 
 ## Support and Contact :
-Feel free to add any lines of code or new features to this program, to do so - please open an issue on the [GitHub repository](https://github.com/yourusername/helloworld) 
+Feel free to add any lines of code or new features to this program, to do so - please open an issue on the [GitHub repository](https://github.com/the-amazing-atharva/Hello-World-Program) 
 or you can contact me via my [twitter handle](https://twitter.com/atharvas_twt)
 
 ### Made by : [Atharva Salitri](https://github.com/the-amazing-atharva)
